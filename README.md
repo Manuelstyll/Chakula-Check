@@ -74,8 +74,8 @@ Food bank is a food review posting site developed in Django. Where user can Regi
 
 <h2>Author</h2>
 <blockquote>
-  Mahmudul alam<br>
-  Email: expelmahmud@gmail.com
+  Emmanuel Mboya<br>
+  Email: relmvrelm@gmail.com
 </blockquote>
 
 <div align="center">
